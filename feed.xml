@@ -3,12 +3,28 @@
     <title>yujeong</title>
     <link href="https://gotodown.github.io/gotodown-github.io/feed.xml" rel="self" />
     <link href="https://gotodown.github.io/gotodown-github.io" />
-    <updated>2021-05-28T22:15:38+08:00</updated>
+    <updated>2021-05-28T22:44:23+08:00</updated>
     <author>
         <name>ljd</name>
     </author>
     <id>https://gotodown.github.io/gotodown-github.io</id>
 
+    <entry>
+        <title>new-test</title>
+        <author>
+            <name>ljd</name>
+        </author>
+        <link href="https://gotodown.github.io/gotodown-github.io/new-test.html"/>
+        <id>https://gotodown.github.io/gotodown-github.io/new-test.html</id>
+
+        <updated>2021-05-28T22:44:23+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://gotodown.github.io/gotodown-github.io/media/posts/3/8bdf9471ab30c873029f60cff9178c11.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://gotodown.github.io/gotodown-github.io/media/posts/3/responsive/8bdf9471ab30c873029f60cff9178c11-xs.jpg 300w ,https://gotodown.github.io/gotodown-github.io/media/posts/3/responsive/8bdf9471ab30c873029f60cff9178c11-sm.jpg 480w ,https://gotodown.github.io/gotodown-github.io/media/posts/3/responsive/8bdf9471ab30c873029f60cff9178c11-md.jpg 768w ,https://gotodown.github.io/gotodown-github.io/media/posts/3/responsive/8bdf9471ab30c873029f60cff9178c11-lg.jpg 1024w ,https://gotodown.github.io/gotodown-github.io/media/posts/3/responsive/8bdf9471ab30c873029f60cff9178c11-xl.jpg 1360w ,https://gotodown.github.io/gotodown-github.io/media/posts/3/responsive/8bdf9471ab30c873029f60cff9178c11-2xl.jpg 1600w"  alt="test" width="1280" height="720"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>google-</title>
         <author>
