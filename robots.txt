@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://web.fire-shahei-01.xyz/sitemap.xml
