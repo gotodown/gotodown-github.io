@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "91a6efdf93de618a5ca75cd59e8afe36"
+        "md5": "3f0d21470a0fdb281e93bf7c91a99be2"
     },
     {
         "path": "assets",
@@ -20,9 +20,19 @@
         "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
     },
     {
+        "path": "/assets/css/fontawesome-all.min.css",
+        "type": "file",
+        "md5": "dbf9d822cefe851ba6f66e1ad57e8987"
+    },
+    {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "7a7dadbfd16bb2beab92c20a5b08f9ee"
+        "md5": "1f86c35078a9d95e5cb7762d56852293"
+    },
+    {
+        "path": "/assets/css/noscript.css",
+        "type": "file",
+        "md5": "6228c7eee614cd200a2cad8333b439fa"
     },
     {
         "path": "/assets/css/photoswipe.css",
@@ -32,12 +42,57 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "05ae0ae2b389f01b91cdf8a8e44e6817"
+        "md5": "a9be65991eac1ba939a241a60fc077ca"
+    },
+    {
+        "path": "assets/images",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/images/overlay.png",
+        "type": "file",
+        "md5": "34aca8cf1dcd5a4077c26c80950d00c6"
     },
     {
         "path": "assets/js",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/assets/js/breakpoints.min.js",
+        "type": "file",
+        "md5": "81a479eb099e3b187613943b085923b8"
+    },
+    {
+        "path": "/assets/js/browser.min.js",
+        "type": "file",
+        "md5": "c07298dd19048a8a69ad97e754dfe8d0"
+    },
+    {
+        "path": "/assets/js/jquery.min.js",
+        "type": "file",
+        "md5": "7c14a783dfeb3d238ccd3edd840d82ee"
+    },
+    {
+        "path": "/assets/js/jquery.scrollex.min.js",
+        "type": "file",
+        "md5": "f89065e3d988006af9791b44561d7c90"
+    },
+    {
+        "path": "/assets/js/jquery.scrolly.min.js",
+        "type": "file",
+        "md5": "1ed5a78bde1476875a40f6b9ff44fc14"
+    },
+    {
+        "path": "/assets/js/main.js",
+        "type": "file",
+        "md5": "41b8842b07b5376db6ae1da66317b0a9"
+    },
+    {
+        "path": "/assets/js/main.min.js",
+        "type": "file",
+        "md5": "149e72e3ae18744a477b480b19e0c6da"
     },
     {
         "path": "/assets/js/photoswipe-ui-default.min.js",
@@ -50,24 +105,14 @@
         "md5": "017385b552f7e0d979e2e2fe6f324015"
     },
     {
-        "path": "/assets/js/scripts.js",
+        "path": "/assets/js/util.js",
         "type": "file",
-        "md5": "932f325ea2f7fb1467e84c97f137e0f9"
+        "md5": "fd2716a7b68ce7748c9676787b61db43"
     },
     {
-        "path": "/assets/js/scripts.min.js",
+        "path": "/assets/js/util.min.js",
         "type": "file",
-        "md5": "f4c4d35432d0e17d212f2fae4e0f8247"
-    },
-    {
-        "path": "/assets/js/svg-fix.js",
-        "type": "file",
-        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
-    },
-    {
-        "path": "/assets/js/svg-map.js",
-        "type": "file",
-        "md5": "350bb511eba46f390e88bbea74abb0ac"
+        "md5": "4201a626f8c9b614a663b3a1d7d82615"
     },
     {
         "path": "assets/svg",
@@ -85,14 +130,84 @@
         "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
     },
     {
-        "path": "/assets/svg/search.svg",
-        "type": "file",
-        "md5": "a5bb83b82b98f41b359f20dbf9db6e44"
+        "path": "assets/webfonts",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/assets/svg/svg-map.svg",
+        "path": "/assets/webfonts/fa-brands-400.eot",
         "type": "file",
-        "md5": "3c5bef20cd9e16841afe49cf089a6c20"
+        "md5": "03783c5172ee1ad128c576bf88fac168"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.svg",
+        "type": "file",
+        "md5": "1e146a9d2141d39e412259812a6bdb94"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.ttf",
+        "type": "file",
+        "md5": "ed2b8bf117160466ba6220a8f1da54a4"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.woff",
+        "type": "file",
+        "md5": "fe9d62e0d16a333a20e63c3e7595f82e"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.woff2",
+        "type": "file",
+        "md5": "7559b3774a0625e8ca6c0160f8f6cfd8"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.eot",
+        "type": "file",
+        "md5": "fc9c63c8224fb341fc933641cbdd12ef"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.svg",
+        "type": "file",
+        "md5": "0f9cc91caae1d6270ca9565e02bcd5e1"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.ttf",
+        "type": "file",
+        "md5": "59215032a4397507b80e5625dc323de3"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.woff",
+        "type": "file",
+        "md5": "e5770f9863963fb576942e25214a226d"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.woff2",
+        "type": "file",
+        "md5": "e07d9e40b26048d9abe2ef966cd6e263"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.eot",
+        "type": "file",
+        "md5": "ef3df98419d143d9617fe163bf4edc0b"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.svg",
+        "type": "file",
+        "md5": "6c284a6deef590e5494e13c1b7aa387c"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.ttf",
+        "type": "file",
+        "md5": "acf50f59802f20d8b45220eaae532a1c"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.woff",
+        "type": "file",
+        "md5": "4bced7c4c0d61d4f988629bb8ae80b8b"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.woff2",
+        "type": "file",
+        "md5": "b5cf8ae26748570d8fb95a47f46b69e1"
     },
     {
         "path": "authors",
@@ -107,12 +222,12 @@
     {
         "path": "/authors/ljd/index.html",
         "type": "file",
-        "md5": "bc5cce1f09574f858898e3f3d502eb04"
+        "md5": "66e8ed26c53ccaa96e22446b76888cdf"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "2be507d71f8a0ec08c9899c96ac988dd"
+        "md5": "f8c929eb01b7512833684b76d1e294c5"
     },
     {
         "path": "feed.xml",
@@ -122,12 +237,12 @@
     {
         "path": "google-.html",
         "type": "file",
-        "md5": "dad41324a49c243a645be7496f29b23d"
+        "md5": "ea54d2cf3804b58313bedc04a92ea605"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "68e99dd5b336e6764ed29515618e8ed2"
+        "md5": "18535ef0c09a40230bdd5ec29cf69bb2"
     },
     {
         "path": "media",
@@ -230,69 +345,19 @@
         "md5": "3b3a4d2a20bdd7ea6dac9df626bc4639"
     },
     {
-        "path": "media/website",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "media/website/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/website/responsive/work-2xl.jpg",
-        "type": "file",
-        "md5": "7105735d953ddc0704fe36820b9a4a3a"
-    },
-    {
-        "path": "/media/website/responsive/work-lg.jpg",
-        "type": "file",
-        "md5": "7105735d953ddc0704fe36820b9a4a3a"
-    },
-    {
-        "path": "/media/website/responsive/work-md.jpg",
-        "type": "file",
-        "md5": "7105735d953ddc0704fe36820b9a4a3a"
-    },
-    {
-        "path": "/media/website/responsive/work-sm.jpg",
-        "type": "file",
-        "md5": "3999d0d3beb782ff8b7e2af77fb43915"
-    },
-    {
-        "path": "/media/website/responsive/work-xl.jpg",
-        "type": "file",
-        "md5": "7105735d953ddc0704fe36820b9a4a3a"
-    },
-    {
-        "path": "/media/website/responsive/work-xs.jpg",
-        "type": "file",
-        "md5": "9991ab3407126c798b9c3731f8698471"
-    },
-    {
-        "path": "/media/website/work.jpg",
-        "type": "file",
-        "md5": "8138d14bc83d13946fa50b7702372d3c"
-    },
-    {
         "path": "new-test.html",
         "type": "file",
-        "md5": "329b976c62842a144411bd6100ac2f81"
+        "md5": "e6c585ef91016a3367f0deaecae159af"
     },
     {
         "path": "new.html",
         "type": "file",
-        "md5": "6e5a4948617dd0dff87ca379308e802a"
+        "md5": "1151da8017a654961262d05eb7428695"
     },
     {
         "path": "robots.txt",
         "type": "file",
         "md5": "5c2d37b26a45d43cadfb455b4990bb6b"
-    },
-    {
-        "path": "search.html",
-        "type": "file",
-        "md5": "ff09f7a1c8bd329fcd6ea9c0e1744f3e"
     },
     {
         "path": "sitemap.xml",
@@ -307,7 +372,7 @@
     {
         "path": "tag-test.html",
         "type": "file",
-        "md5": "aa14772afc56a23208438cdf8a1f0234"
+        "md5": "da19563aa0e737073925ca148bff0f23"
     },
     {
         "path": "tags",
@@ -322,11 +387,11 @@
     {
         "path": "/tags/google/index.html",
         "type": "file",
-        "md5": "b322561afbfb1d7b3f9defb41fd32e03"
+        "md5": "41339684ac5caa83044ca3176dddb264"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "42124d1d621323175f6f20a4bcb51b1c"
+        "md5": "3f09210ef1052d634dfb97cacc2a3f88"
     }
 ]
