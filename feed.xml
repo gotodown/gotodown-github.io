@@ -3,12 +3,32 @@
     <title>yujeong</title>
     <link href="https://gotodown.github.io/gotodown-github.io/feed.xml" rel="self" />
     <link href="https://gotodown.github.io/gotodown-github.io" />
-    <updated>2021-05-28T22:44:23+08:00</updated>
+    <updated>2021-05-28T22:57:42+08:00</updated>
     <author>
         <name>ljd</name>
     </author>
     <id>https://gotodown.github.io/gotodown-github.io</id>
 
+    <entry>
+        <title>tag-test</title>
+        <author>
+            <name>ljd</name>
+        </author>
+        <link href="https://gotodown.github.io/gotodown-github.io/tag-test.html"/>
+        <id>https://gotodown.github.io/gotodown-github.io/tag-test.html</id>
+
+        <updated>2021-05-28T22:57:42+08:00</updated>
+            <summary>
+                <![CDATA[
+                    this was for tag test 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this was for tag test </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>new-test</title>
         <author>
