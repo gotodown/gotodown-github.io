@@ -2,13 +2,27 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "yujeong",
     "description": "",
-    "home_page_url": "http://web.fire-shahei-01.xyz",
-    "feed_url": "http://web.fire-shahei-01.xyz/feed.json",
+    "home_page_url": "https://gotodown.github.io/gotodown-github.io",
+    "feed_url": "https://gotodown.github.io/gotodown-github.io/feed.json",
     "user_comment": "",
-    "icon": "http://web.fire-shahei-01.xyz/media/website/work.jpg",
+    "icon": "https://gotodown.github.io/gotodown-github.io/media/website/work.jpg",
     "author": {
         "name": "ljd"
     },
     "items": [
+        {
+            "id": "https://gotodown.github.io/gotodown-github.io/new.html",
+            "url": "https://gotodown.github.io/gotodown-github.io/new.html",
+            "title": "new",
+            "summary": "垃圾毒素；lajsflansf.zxmcoaksd;f",
+            "content_html": "<p>垃圾毒素；lajsflansf.zxmcoaksd;f</p>",
+            "author": {
+                "name": "ljd"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-28T21:18:40+08:00",
+            "date_modified": "2021-05-28T21:18:40+08:00"
+        }
     ]
 }

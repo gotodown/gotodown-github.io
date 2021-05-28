@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "8a6efeaf4f37ce6fe25c338befa784d2"
+        "md5": "0de1c4c52dd4df33e1cf066fb2aecb75"
     },
     {
         "path": "assets",
@@ -100,19 +100,29 @@
         "md5": false
     },
     {
+        "path": "authors/ljd",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/ljd/index.html",
+        "type": "file",
+        "md5": "393567759dfcc28e17b58d3599b918b2"
+    },
+    {
         "path": "feed.json",
         "type": "file",
-        "md5": "2bd4f4690f9c71a8a867235ba58e998e"
+        "md5": "3352818ad05bdd8b6935a1cd08827728"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "56b11f7e0ffe26994a107f4fa2578d37"
+        "md5": "7bd465f6e596feb1371382980464d414"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "5b36608ae5c5ceff784f929f70011590"
+        "md5": "1da1305d282affb61dea7b4416024867"
     },
     {
         "path": "media",
@@ -165,19 +175,24 @@
         "md5": "8138d14bc83d13946fa50b7702372d3c"
     },
     {
+        "path": "new.html",
+        "type": "file",
+        "md5": "09ac7473b9c9d659e7380a43bf3df355"
+    },
+    {
         "path": "robots.txt",
         "type": "file",
-        "md5": "91c4a43272657a8699a7bdfef772aeee"
+        "md5": "5c2d37b26a45d43cadfb455b4990bb6b"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "a3f39146c98a649686f21a683781276f"
+        "md5": "28b8eb07c22da9a85ca8d33a41d2f04e"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "3fa359adf230b9e147fd90a2d0509fad"
+        "md5": "8d7103b2907c3f2b7115ffa5448a8c4e"
     },
     {
         "path": "sitemap.xsl",
@@ -192,6 +207,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "c0b036923bbdb3439221db056456a21f"
+        "md5": "602ee23c276a931fbb91cbc99c132496"
     }
 ]
