@@ -112,12 +112,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "73cb4d4f1aab75c42f6752aae5b1cafd"
+        "md5": "2be507d71f8a0ec08c9899c96ac988dd"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "0fb03c92b58fcbbd9948730e06f3c083"
+        "md5": "616e44a14c5403d06b4043babd81df2b"
     },
     {
         "path": "google-.html",
@@ -297,7 +297,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "d5b2006149832d366c60c22de45fca97"
+        "md5": "41f47108a99907c220d12c0bf6731f90"
     },
     {
         "path": "sitemap.xsl",
@@ -307,7 +307,7 @@
     {
         "path": "tag-test.html",
         "type": "file",
-        "md5": "fe9a6f572695386edbcba1047c499720"
+        "md5": "aa14772afc56a23208438cdf8a1f0234"
     },
     {
         "path": "tags",
@@ -315,8 +315,18 @@
         "md5": false
     },
     {
+        "path": "tags/google",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/google/index.html",
+        "type": "file",
+        "md5": "b322561afbfb1d7b3f9defb41fd32e03"
+    },
+    {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "f7e512cefe4faa263bbc617d1cafe473"
+        "md5": "42124d1d621323175f6f20a4bcb51b1c"
     }
 ]

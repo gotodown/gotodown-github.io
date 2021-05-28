@@ -3,7 +3,7 @@
     <title>yujeong</title>
     <link href="https://gotodown.github.io/gotodown-github.io/feed.xml" rel="self" />
     <link href="https://gotodown.github.io/gotodown-github.io" />
-    <updated>2021-05-28T22:57:42+08:00</updated>
+    <updated>2021-05-28T23:00:09+08:00</updated>
     <author>
         <name>ljd</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://gotodown.github.io/gotodown-github.io/tag-test.html"/>
         <id>https://gotodown.github.io/gotodown-github.io/tag-test.html</id>
+            <category term="google"/>
 
-        <updated>2021-05-28T22:57:42+08:00</updated>
+        <updated>2021-05-28T23:00:09+08:00</updated>
             <summary>
                 <![CDATA[
                     this was for tag test 
